@@ -3,7 +3,7 @@
 }
 
 body {
-    background-color: #2d2013;
+    background-color: #94bac4;
     color: white;
     margin: 0px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -99,13 +99,13 @@ input{
   .single-meal img {
     width: 300px;
     margin: 15px;
-    border: 4px #fff solid;
+    border: 4px rgb(245, 213, 213) solid;
     border-radius: 2px;
   }
   .single-meal-info {
     margin: 20px;
     padding: 10px;
-    border: 2px #e09850 dashed;
+    border: 2px #332f2b dashed;
     border-radius: 5px;
   }
   .single-meal p {
@@ -118,7 +118,7 @@ input{
     list-style-type: none;
   }
   .single-meal li {
-    border: 1px solid #ededed;
+    border: 1px solid #da0505;
     border-radius: 5px;
     background-color: #fff;
     color: #2d2013;
